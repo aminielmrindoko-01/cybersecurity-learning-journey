@@ -2,7 +2,9 @@
 Hands-on cybersecurity labs, projects, and learning notes.
 # 🛡️ Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio repository. This repository documents my hands-on learning journey in ethical hacking, digital forensics, networking, and web security through practical labs, projects, and CTF challenges.
+Cybersecurity & IT student focused on ethical hacking, network security, and web application security.
+
+This repository contains hands-on labs, security tools, and documentation of my learning journey in cybersecurity and web technologies.
 
 ## 🚀 Featured Projects
 
