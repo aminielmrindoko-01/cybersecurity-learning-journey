@@ -31,6 +31,7 @@ Welcome to my cybersecurity portfolio repository. This repository documents my h
 ## 📚 Currently Learning
 
 * Web Exploitation
+* Web development
 * SIEM & SOC Operations
 * Active Directory Security
 * Threat Detection
